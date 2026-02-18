@@ -5,7 +5,7 @@ Tableau Public: https://public.tableau.com/views/EU_Superstore_Executive_Dashboa
 This project presents an executive KPI dashboard analysing EU Superstore sales performance across regions, categories, and time. The dashboard enables leadership to identify growth drivers, geographic trends, and product performance.
 
 ## Business Objective
-Providing a high-level view of sales and profit performance across Europe with the ability to drill into category and country performance.
+Provide a high-level view of sales and profit performance across Europe with the ability to drill into category and country performance.
 
 ## Key Metrics
 - Total Sales
