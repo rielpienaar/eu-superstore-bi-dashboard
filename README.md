@@ -1,5 +1,5 @@
 # EU Superstore Executive Sales Dashboard
-Tableau Public: (paste link after publishing)
+Tableau Public: https://public.tableau.com/views/EU_Superstore_Executive_Dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Overview
 This project presents an executive KPI dashboard analysing EU Superstore sales performance across regions, categories, and time. The dashboard enables leadership to identify growth drivers, geographic trends, and product performance.
