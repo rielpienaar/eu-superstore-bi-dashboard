@@ -16,11 +16,25 @@ Providing a high-level view of sales and profit performance across Europe with t
 - Sales by Country
 - Top Sub-categories
 
-## Insights
-- Sales increased 21% YoY, led by Technology
-- UK and France contribute the majority of EU revenue
-- Phones and Chairs are top-performing sub-categories
-- Median basket size declined despite revenue growth
+## Top Insights
+- Sales grew 21% YoY, primarily driven by the Technology category.
+- Profit increased 16% YoY, also led by Technology products.
+- Median basket size declined 8%, while customer count increased ~8%, indicating smaller but more frequent purchases.
+- Revenue and profit growth were driven by higher customer volume and shopping frequency despite lower spend per transaction.
+- Germany recorded strong growth across all key KPIs.
+- Several regions and countries show comparatively low performance, suggesting potential expansion or market development opportunities.
+
+### Sales Performance
+- The UK, France, and Germany contribute the majority of EU revenue.
+- Phones and Chairs are the highest-revenue sub-categories.
+
+### Profit Performance
+- The UK, France, and Germany contribute the majority of EU profit.
+- Copiers and Accessories are the main profit drivers.
+
+### Product Category Performance
+- Technology delivers the highest revenue and strong margins (18.7%).
+- Furniture has very low profitability (1.5% margin), indicating pricing or cost structure challenges.
 
 ## Tools
 - Tableau
