@@ -12,6 +12,7 @@ Provide a high-level view of sales and profit performance across Europe with the
 - Total Profit
 - Median Basket Size
 - Total Customers
+- YoY Comparison
 - Sales by Category
 - Sales by Country
 - Top Sub-categories
