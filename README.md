@@ -37,9 +37,4 @@ Provide a high-level view of sales and profit performance across Europe with the
 - Furniture has very low profitability (1.5% margin), indicating pricing or cost structure challenges.
 
 ## Tools
-- Tableau
-
-## Files
-dashboard/ → Tableau workbook
-data/ → source dataset
-docs/ → KPI and data definitions
+- Tableau Desktop
